@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8dv2somLE/0=",
+  "dgSpecHash": "W5nWweAnkMA=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Doniyor\\Downloads\\Telegram Desktop\\NewspaperApp\\NewspaperApp\\NewspaperApp.csproj",
+  "projectFilePath": "C:\\Users\\Doniyor\\Downloads\\Telegram Desktop\\NewspaperApp\\WAD_15003\\NewspaperApp\\NewspaperApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Doniyor\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\Doniyor\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

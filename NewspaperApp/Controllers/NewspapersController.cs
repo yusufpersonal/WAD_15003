@@ -5,11 +5,11 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-using NewspaperApp.Data;
-using NewspaperApp.Models;
-using NewspaperApp.Repositories;
+using NewspaperApp15003.Data;
+using NewspaperApp15003.Models;
+using NewspaperApp15003.Repositories;
 
-namespace NewspaperApp.Controllers
+namespace NewspaperApp15003.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]

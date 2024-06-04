@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace NewspaperApp.Models
+namespace NewspaperApp15003.Models
 {
     public class Category
     { 

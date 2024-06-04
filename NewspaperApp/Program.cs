@@ -1,6 +1,6 @@
 using Microsoft.EntityFrameworkCore;
-using NewspaperApp.Data;
-using NewspaperApp.Repositories;
+using NewspaperApp15003.Data;
+using NewspaperApp15003.Repositories;
 
 var builder = WebApplication.CreateBuilder(args);
 

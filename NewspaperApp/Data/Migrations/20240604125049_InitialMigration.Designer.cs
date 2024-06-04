@@ -4,11 +4,11 @@ using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
 using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
-using NewspaperApp.Data;
+using NewspaperApp15003.Data;
 
 #nullable disable
 
-namespace NewspaperApp.Migrations
+namespace NewspaperApp15003.Migrations
 {
     [DbContext(typeof(NewspaperDbContext))]
     [Migration("20240604125049_InitialMigration")]
@@ -23,7 +23,7 @@ namespace NewspaperApp.Migrations
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder, 1L, 1);
 
-            modelBuilder.Entity("NewspaperApp.Models.Newspaper", b =>
+            modelBuilder.Entity("NewspaperApp15003.Models.Newspaper", b =>
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()

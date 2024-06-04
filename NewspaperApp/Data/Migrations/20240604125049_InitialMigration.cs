@@ -2,7 +2,7 @@
 
 #nullable disable
 
-namespace NewspaperApp.Migrations
+namespace NewspaperApp15003.Migrations
 {
     public partial class InitialMigration : Migration
     {

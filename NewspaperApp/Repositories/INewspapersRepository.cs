@@ -1,6 +1,6 @@
-﻿using NewspaperApp.Models;
+﻿using NewspaperApp15003.Models;
 
-namespace NewspaperApp.Repositories
+namespace NewspaperApp15003.Repositories
 {
     public interface INewspapersRepository
     { 

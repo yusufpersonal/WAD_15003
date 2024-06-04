@@ -9,7 +9,7 @@
     }
   },
   "profiles": {
-    "NewspaperApp": {
+    "NewspaperApp15003": {
       "commandName": "Project",
       "dotnetRunMessages": true,
       "launchBrowser": true,

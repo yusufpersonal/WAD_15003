@@ -1,8 +1,8 @@
-﻿using NewspaperApp.Data;
+﻿using NewspaperApp15003.Data;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
-namespace NewspaperApp.Models
+namespace NewspaperApp15003.Models
 {
     public class Newspaper
     {

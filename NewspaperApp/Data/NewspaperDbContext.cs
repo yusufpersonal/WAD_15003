@@ -1,7 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using NewspaperApp.Models;
+using NewspaperApp15003.Models;
 
-namespace NewspaperApp.Data
+namespace NewspaperApp15003.Data
 {
     public class NewspaperDbContext : DbContext
     { 

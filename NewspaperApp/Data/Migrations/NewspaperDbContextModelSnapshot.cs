@@ -4,11 +4,11 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
-using NewspaperApp.Data;
+using NewspaperApp15003.Data;
 
 #nullable disable
 
-namespace NewspaperApp.Migrations
+namespace NewspaperApp15003.Migrations
 {
     [DbContext(typeof(NewspaperDbContext))]
     partial class NewspaperDbContextModelSnapshot : ModelSnapshot
@@ -22,7 +22,7 @@ namespace NewspaperApp.Migrations
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder, 1L, 1);
 
-            modelBuilder.Entity("NewspaperApp.Models.Category", b =>
+            modelBuilder.Entity("NewspaperApp15003.Models.Category", b =>
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
@@ -39,7 +39,7 @@ namespace NewspaperApp.Migrations
                     b.ToTable("Categories");
                 });
 
-            modelBuilder.Entity("NewspaperApp.Models.Newspaper", b =>
+            modelBuilder.Entity("NewspaperApp15003.Models.Newspaper", b =>
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
@@ -64,9 +64,9 @@ namespace NewspaperApp.Migrations
                     b.ToTable("Newspapers");
                 });
 
-            modelBuilder.Entity("NewspaperApp.Models.Newspaper", b =>
+            modelBuilder.Entity("NewspaperApp15003.Models.Newspaper", b =>
                 {
-                    b.HasOne("NewspaperApp.Models.Category", "Category")
+                    b.HasOne("NewspaperApp15003.Models.Category", "Category")
                         .WithMany()
                         .HasForeignKey("CategoryId");
 

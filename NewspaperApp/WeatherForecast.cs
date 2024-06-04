@@ -1,4 +1,4 @@
-namespace NewspaperApp
+namespace NewspaperApp15003
 {
     public class WeatherForecast
     {

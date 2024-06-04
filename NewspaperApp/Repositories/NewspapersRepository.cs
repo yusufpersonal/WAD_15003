@@ -1,8 +1,8 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using NewspaperApp.Data;
-using NewspaperApp.Models;
+using NewspaperApp15003.Data;
+using NewspaperApp15003.Models;
 
-namespace NewspaperApp.Repositories
+namespace NewspaperApp15003.Repositories
 {
     public class NewspapersRepository : INewspapersRepository
     {

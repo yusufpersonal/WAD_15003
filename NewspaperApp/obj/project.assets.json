@@ -11485,11 +11485,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Doniyor\\Downloads\\Telegram Desktop\\NewspaperApp\\NewspaperApp\\NewspaperApp.csproj",
+      "projectUniqueName": "C:\\Users\\Doniyor\\Downloads\\Telegram Desktop\\NewspaperApp\\WAD_15003\\NewspaperApp\\NewspaperApp.csproj",
       "projectName": "NewspaperApp",
-      "projectPath": "C:\\Users\\Doniyor\\Downloads\\Telegram Desktop\\NewspaperApp\\NewspaperApp\\NewspaperApp.csproj",
+      "projectPath": "C:\\Users\\Doniyor\\Downloads\\Telegram Desktop\\NewspaperApp\\WAD_15003\\NewspaperApp\\NewspaperApp.csproj",
       "packagesPath": "C:\\Users\\Doniyor\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Doniyor\\Downloads\\Telegram Desktop\\NewspaperApp\\NewspaperApp\\obj\\",
+      "outputPath": "C:\\Users\\Doniyor\\Downloads\\Telegram Desktop\\NewspaperApp\\WAD_15003\\NewspaperApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Doniyor\\AppData\\Roaming\\NuGet\\NuGet.Config",
