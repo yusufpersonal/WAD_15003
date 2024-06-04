@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZFo+KNAPOYk=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP ENVY\\source\\repos\\Newspaper App\\Newspaper App\\NewspaperApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP ENVY\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.5\\microsoft.dotnet.ilcompiler.8.0.5.nupkg.sha512",
+    "C:\\Users\\HP ENVY\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.5\\microsoft.net.illink.tasks.8.0.5.nupkg.sha512",
+    "C:\\Users\\HP ENVY\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.5\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
