@@ -1,1 +1,1 @@
-# WAD_15003
+# This application was developed for Web Application module, as a coursework portfolio project @ WIUT by student ID: 15003
